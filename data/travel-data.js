@@ -26,7 +26,7 @@ window.TRAVEL_DATA = {
           name: "阜阳",
           mapName: "阜阳市",
           adcode: '341200',
-          date: "2003.01.19起",
+          date: "2003.01.19",
           cover: "assets/photos/cities/阜阳.png",
           nature: [
             "阜阳生态园",
@@ -77,7 +77,7 @@ window.TRAVEL_DATA = {
           name: "北京",
           mapName: "北京市",
           adcode: '110000',
-          date: "2024.09起",
+          date: "2024.10.01",
           cover: "assets/photos/cities/北京.png",
           nature: [
             { name: "奥林匹克森林公园", district: "朝阳区" },
@@ -200,7 +200,7 @@ window.TRAVEL_DATA = {
           name: "邯郸",
           mapName: "邯郸市",
           adcode: '130400',
-          date: "2025.10.02",
+          date: "2025.11.15",
           cover: "assets/photos/cities/邯郸.png",
           nature: [
             "将军岭",
@@ -215,7 +215,7 @@ window.TRAVEL_DATA = {
           name: "秦皇岛",
           mapName: "秦皇岛市",
           adcode: '130300',
-          date: "2024.07.12--07.14",
+          date: "2025.03.07",
           cover: "assets/photos/cities/秦皇岛.png",
           nature: [
             "北戴河",
@@ -238,7 +238,7 @@ window.TRAVEL_DATA = {
           name: "石家庄",
           mapName: "石家庄市",
           adcode: '130100',
-          date: "2025.08.15",
+          date: "2025.01.14",
           cover: "assets/photos/cities/石家庄.png",
           nature: [
             "西柏坡",
@@ -251,7 +251,7 @@ window.TRAVEL_DATA = {
           name: "张家口",
           mapName: "张家口市",
           adcode: '130700',
-          date: "2026.05.02",
+          date: "2026.05.22",
           cover: "assets/photos/cities/张家口.png",
           nature: [
             "成吉思汗公园",
@@ -275,7 +275,7 @@ window.TRAVEL_DATA = {
           name: "哈尔滨",
           mapName: "哈尔滨市",
           adcode: '230100',
-          date: "2020.09--2024.06（多次）",
+          date: "2020.09.11",
           cover: "assets/photos/cities/哈尔滨.png",
           nature: [
             "松花江",
@@ -302,7 +302,7 @@ window.TRAVEL_DATA = {
           name: "长白山",
           mapName: "延边朝鲜族自治州",
           adcode: '222400',
-          date: "2023.07.22",
+          date: "2024.04.28",
           cover: "assets/photos/cities/长白山.png",
           note: "长白山旅行记录在地图上以延边朝鲜族自治州作为定位范围。",
           nature: [
@@ -317,7 +317,7 @@ window.TRAVEL_DATA = {
           name: "长春",
           mapName: "长春市",
           adcode: '220100',
-          date: "2023.07.20",
+          date: "2024.04.29",
           cover: "assets/photos/cities/长春.png",
           nature: [
             "净月潭公园",
@@ -339,7 +339,7 @@ window.TRAVEL_DATA = {
           name: "南京",
           mapName: "南京市",
           adcode: '320100',
-          date: "2025.04.05--04.06",
+          date: "2020.08.12",
           cover: "assets/photos/cities/南京.png",
           nature: [
             "秦淮河",
@@ -370,7 +370,7 @@ window.TRAVEL_DATA = {
           name: "大连",
           mapName: "大连市",
           adcode: '210200',
-          date: "2024.08.01--08.03",
+          date: "2022.06.28",
           cover: "assets/photos/cities/大连.png",
           nature: [
             "金沙滩",
@@ -387,7 +387,7 @@ window.TRAVEL_DATA = {
           name: "抚顺",
           mapName: "抚顺市",
           adcode: '210400',
-          date: "2026.06.01",
+          date: "2025.10.02",
           cover: "assets/photos/cities/抚顺.png",
           nature: [
             "萨尔浒",
@@ -426,7 +426,7 @@ window.TRAVEL_DATA = {
           name: "呼和浩特",
           mapName: "呼和浩特市",
           adcode: '150100',
-          date: "2026.05.03",
+          date: "2025.06.21",
           cover: "assets/photos/cities/呼和浩特.png",
           nature: [
             "敕勒川草原",
@@ -445,7 +445,7 @@ window.TRAVEL_DATA = {
           name: "乌兰察布",
           mapName: "乌兰察布市",
           adcode: '150900',
-          date: "2026.05.02",
+          date: "2025.06.23",
           cover: "assets/photos/cities/乌兰察布.png",
           nature: [
             "乌兰哈达火山",
@@ -464,7 +464,7 @@ window.TRAVEL_DATA = {
           name: "银川",
           mapName: "银川市",
           adcode: '640100',
-          date: "2026.05.07",
+          date: "2026.05.03",
           cover: "assets/photos/cities/银川.png",
           nature: [
             "贺兰山岩画",
@@ -491,7 +491,7 @@ window.TRAVEL_DATA = {
           name: "威海",
           mapName: "威海市",
           adcode: '371000',
-          date: "2022.07.15--07.17",
+          date: "2022.07.02",
           cover: "assets/photos/cities/威海.png",
           nature: [
             "黄海",
@@ -513,7 +513,7 @@ window.TRAVEL_DATA = {
           name: "西安",
           mapName: "西安市",
           adcode: '610100',
-          date: "2025.01.20--01.22",
+          date: "2024.12.30",
           cover: "assets/photos/cities/西安.png",
           nature: [
             "大明宫",
@@ -543,7 +543,7 @@ window.TRAVEL_DATA = {
           name: "上海",
           mapName: "上海市",
           adcode: '310000',
-          date: "2025.02.02--02.04",
+          date: "2024.04.02",
           cover: "assets/photos/cities/上海.png",
           nature: [
             { name: "黄浦江", districts: ["黄浦区", "浦东新区"] },
@@ -571,7 +571,7 @@ window.TRAVEL_DATA = {
           name: "成都",
           mapName: "成都市",
           adcode: '510100',
-          date: "2025.07.06",
+          date: "2026.01.26",
           cover: "assets/photos/cities/成都.png",
           nature: [
           ],
@@ -585,7 +585,7 @@ window.TRAVEL_DATA = {
           name: "凉山",
           mapName: "凉山彝族自治州",
           adcode: '513400',
-          date: "2026.07.03--07.06",
+          date: "2026.01.19",
           cover: "assets/photos/cities/凉山州.png",
           nature: [
             "谷克德",
@@ -619,7 +619,7 @@ window.TRAVEL_DATA = {
           name: "乌鲁木齐",
           mapName: "乌鲁木齐市",
           adcode: '650100',
-          date: "2026.07.10--07.12",
+          date: "2026.07.09",
           cover: "assets/photos/cities/乌鲁木齐.png",
           nature: [
             "红光山",
@@ -643,7 +643,7 @@ window.TRAVEL_DATA = {
           name: "杭州",
           mapName: "杭州市",
           adcode: '330100',
-          date: "2025.02.05--02.06",
+          date: "2024.04.04",
           cover: "assets/photos/cities/杭州.png",
           nature: [
             "西湖",
