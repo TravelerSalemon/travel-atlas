@@ -214,7 +214,7 @@ window.TRAVEL_DATA = {
         },
         {
           name: "黄骅",
-          mapName: "黄骅市",
+          mapName: "沧州市",
           adcode: '061100',
           date: "2026.09.25",
           cover: "assets/photos/cities/黄骅.png",
