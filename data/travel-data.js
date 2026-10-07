@@ -44,6 +44,7 @@ window.TRAVEL_DATA = {
           date: "2024.04.06",
           cover: "assets/photos/cities/合肥.png",
           nature: [
+            "巢湖",
             "翡翠湖公园",
           ],
           culture: [
@@ -420,6 +421,24 @@ window.TRAVEL_DATA = {
             "乌兰湖",
           ],
           culture: [
+          ]
+        },
+       {
+          name: "赤峰",
+          mapName: "赤峰市",
+          adcode: '024000',
+          date: "2026.10.02",
+          cover: "assets/photos/cities/赤峰.png",
+          nature: [
+            "达达线",
+            "达里诺尔湖",
+            "大青山",
+            "美林谷",
+            "西拉沐沦大峡谷",
+            "玉龙沙湖",
+          ],
+          culture: [
+            "康宁寺",
           ]
         },
         {
