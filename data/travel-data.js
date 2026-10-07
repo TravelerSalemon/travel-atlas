@@ -213,6 +213,18 @@ window.TRAVEL_DATA = {
           ]
         },
         {
+          name: "黄骅",
+          mapName: "黄骅市",
+          adcode: '061100',
+          date: "2026.09.25",
+          cover: "assets/photos/cities/黄骅.png",
+          nature: [
+            "渤海",
+          ],
+          culture: [
+          ]
+        },
+        {
           name: "秦皇岛",
           mapName: "秦皇岛市",
           adcode: '130300',
