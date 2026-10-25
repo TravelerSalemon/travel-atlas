@@ -119,6 +119,7 @@ window.TRAVEL_DATA = {
           culture: [
             { name: "798艺术中心", district: "朝阳区" },
             { name: "北京大学", district: "海淀区" },
+            { name: "北京动物园", district: "西城区" },
             { name: "北京航空航天大学", district: "海淀区" },
             { name: "北京孔庙", district: "东城区" },
             { name: "北京林业大学", district: "海淀区" },
